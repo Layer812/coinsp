@@ -1,7 +1,7 @@
 # coinsp (Coin Insert Sound Player)
 人気ガチャ[コイン投入口](https://tama-kyu.com/lineup/cointounyuguchi/)にコイン投入音(通称:バキューン)を再生させる魔改造です。<br>
-![こんな感じの物](https://twitter.com/layer812/status/1565692875064885248)が出来上がります。<br>
-[IMG_3628](https://user-images.githubusercontent.com/111331376/190154078-3bc946c0-95fe-468a-ac1c-b80aed325abc.jpg)
+[こんな感じの物](https://twitter.com/layer812/status/1565692875064885248)が出来上がります。<br>
+![IMG_3628](https://user-images.githubusercontent.com/111331376/190154078-3bc946c0-95fe-468a-ac1c-b80aed325abc.jpg)
 
 ## 作り方
 ### 使うもの

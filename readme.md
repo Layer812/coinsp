@@ -1,13 +1,7 @@
 # coinsp (Coin Insert Sound Player)
-<<<<<<< HEAD
-l‹CƒKƒ`ƒƒ[ƒRƒCƒ““Š“üŒû](https://tama-kyu.com/lineup/cointounyuguchi/)‚ÉƒRƒCƒ““Š“ü‰¹(’ÊÌ:ƒoƒLƒ…[ƒ“)‚ðÄ¶‚³‚¹‚é–‚‰ü‘¢‚Å‚·B<br>
-![‚±‚ñ‚ÈŠ´‚¶‚Ì•¨](https://twitter.com/layer812/status/1565692875064885248)‚ªo—ˆã‚ª‚è‚Ü‚·B<br>
-[IMG_3628](https://user-images.githubusercontent.com/111331376/190154078-3bc946c0-95fe-468a-ac1c-b80aed325abc.jpg)
-=======
 äººæ°—ã‚¬ãƒãƒ£[ã‚³ã‚¤ãƒ³æŠ•å…¥å£](https://tama-kyu.com/lineup/cointounyuguchi/)ã«ã‚³ã‚¤ãƒ³æŠ•å…¥éŸ³(é€šç§°:ãƒã‚­ãƒ¥ãƒ¼ãƒ³)ã‚’å†ç”Ÿã•ã›ã‚‹é­”æ”¹é€ ã§ã™ã€‚<br>
 [ã“ã‚“ãªæ„Ÿã˜ã®ç‰©](https://twitter.com/layer812/status/1565692875064885248)ãŒå‡ºæ¥ä¸ŠãŒã‚Šã¾ã™ã€‚<br>
 ![IMG_3628](https://user-images.githubusercontent.com/111331376/190154078-3bc946c0-95fe-468a-ac1c-b80aed325abc.jpg)
->>>>>>> 79bad730e3d87e6d866396856bb2c2b769d8c9a8
 
 ## ä½œã‚Šæ–¹
 ### ä½¿ã†ã‚‚ã®
@@ -29,37 +23,6 @@
 é›»æ± ã¨ä¸Šéƒ¨ã®ã‚¹ã‚¤ãƒƒãƒã‹ã‚‰å‡ºã¦ã„ã‚‹ç·šã¯LEDåŸºç›¤ã«æŽ¥ç¶šã—ã¦ã„ã‚‹æ—¢å­˜ã®ç·šã§ã™ã€‚<br>
  ![çµç·šå›³](https://user-images.githubusercontent.com/111331376/190074215-4a93f07b-73cc-4cb4-85f6-fa01eee383dd.png)
 
-<<<<<<< HEAD
-### ‰ü‘¢Žè‡
-1.5–{‚ÌƒlƒW‚ðŠO‚µ— ŠW‚ðŠJ‚¯‚Ü‚·B<br>
-2.LEDŠî”Õ‚ðŽæ‚è•t‚¯‚Ä‚¢‚éƒzƒbƒgƒ{ƒ“ƒh‚ð‚ ‚é’ö“xŽæ‚è‚Ü‚·B<br>
-![LEDŠî”Õ](https://user-images.githubusercontent.com/111331376/190109123-f75c9168-653e-4abd-863b-73fe9be7536d.jpg)<br>
-3.LEDŠî”Õ‚ÉŒq‚ª‚Á‚Ä‚¢‚é‚Q–{‚Ìü(”’‚Æ•)‚ðLEDŠî”ÕƒMƒŠƒMƒŠ‚ÅØ’f‚µ‚Ü‚·B<br>
-4.Ø’f‚µ‚½‚Q–{‚Ìü‚ðŒ‹ü}‚É‚ ‚é‚æ‚¤‚ÉTiny2040‚ÉÚ‘±‚µ‚Ü‚·B<br>
-5.Tiny2040‚ð—¼–Êƒe[ƒv‚È‚Ç‚ÅLEDŠî”Õ‚Ì‚ ‚Á‚½êŠ‚ÉŒÅ’è‚µ‚Ü‚·B<br>
-@ƒRƒCƒ““Š“ü‚ÌŽ×–‚‚É‚È‚ç‚È‚¢‚æ‚¤‚É­‚µ¶‚ÉƒIƒtƒZƒbƒg‚µ‚ÄŒÅ’è‚µ‚Ü‚·B<br>
-  ![IMG_3622](https://user-images.githubusercontent.com/111331376/190109795-620534e2-a48e-4b2b-9829-e7cd04a98db7.jpg)<br>
-6.ƒRƒCƒ““Š“üŒû‚Ì‰º‚Ì•û‚ÉƒfƒBƒeƒNƒ^ƒXƒCƒbƒ`‚ðŒÅ’è‚µ‚Ü‚·B<br>
-  ŒŠ‚ª100‰~‚æ‚è‘å‚«‚¢‚Ì‚Å‘å’_‚ÉƒXƒCƒbƒ`‚ª‰Ÿ‚µž‚ß‚éˆÊ‚ÌˆÊ’u‚Å‘åä•v‚Å‚·B<br>
-7.ƒXƒs[ƒJ[‚ðãŠW‚Ì³–Ê‚©‚çŒ©‚Ä¶‘¤‚Ì•Ç‚ÉÝ’u‚µ‚Ü‚·B<br>
-@ƒlƒWŒÅ’è‚Ì’Œ‚ªŽ×–‚‚É‚È‚é‚Ì‚Åƒjƒbƒp[“™‚ÅØ’f‚µ‚Ü‚·B<br>
-@Ú’…‘O‚É•Ç‚ÉŒŠ‚ðŠJ‚¯‚Ä‚¨‚­‚ÆA‰¹‚ª‘å‚«‚­‚È‚Á‚Ä—Ç‚¢‚Å‚·B
-8.Œ‹ü}‚É]‚Á‚ÄƒfƒeƒNƒ^ƒXƒCƒbƒ`AƒAƒ“ƒvAƒXƒs[ƒJ[‚ÆŒ‹ü‚µ‚Ü‚·B<br>
-@![IMG_3624](https://user-images.githubusercontent.com/111331376/190153688-288163e2-1fc0-4d44-a961-430d5d3d11b7.jpg)<br>
-9.“d’r‚ð”²‚¢‚ÄTiny2040‚ÉUSBÚ‘±‚ðs‚¢A[vgmpico](https://github.com/Layer812/vgmpico)‚Ævgmƒtƒ@ƒCƒ‹‚ð‘‚«ž‚Ý‚Ü‚·B<br>
-@ƒfƒBƒeƒNƒ^ƒXƒCƒbƒ`‚ð‰Ÿ‚µ‚±‚ÝAƒRƒCƒ““Š“ü‰¹‚ª–Â‚é‚±‚Æ‚ðŠm”F‚µ‚Ä‚­‚¾‚³‚¢B<br>
-@![IMG_3625](https://user-images.githubusercontent.com/111331376/190153878-a7d630c2-76dd-4cab-997b-037cf14b8a6a.jpg)<br>
-10.‹C‡‚ÅãŠW‚ð•Â‚ß‚ÄƒlƒW‚ð’÷‚ß‚±‚Ý‚Ü‚·B<br>
-@’fü‚µ‚È‚¢‚æ‚¤‚É{ƒRƒCƒ““Š“üŒû‚ðü‚Å‚Ó‚³‚ª‚È‚¢‚æ‚¤‚É’ˆÓ‚µ‚Ü‚µ‚å‚¤B<br>
-11.“d’r‚ð“ü‚ê‚ê‚ÎŠ®¬‚Å‚·B
-@![IMG_3628](https://user-images.githubusercontent.com/111331376/190154078-3bc946c0-95fe-468a-ac1c-b80aed325abc.jpg)<br>
-
-## •â‘«
- - “d’r‚ð“ü‚ê‚½‚Ü‚ÜUSB‚ðŒq‚ª‚È‚¢‚Å‚­‚¾‚³‚¢B
- - ƒIƒŠƒWƒiƒ‹‚ÆŒ©•ª‚¯‚ª‚Â‚©‚È‚¢‚æ‚¤‚ÉLEDÔ‚­Œõ‚ç‚¹‚Ä‚¢‚Ü‚·‚ªAŽµF‚ÉŒõ‚ç‚¹‚Ä‚àŠ†D—Ç‚¢‚©‚à‚Å‚·B
- - ƒhƒŠƒ‹‚ÅŒŠ‚ðŠJ‚¯‚éŽžAŽè‚ðƒPƒK‚µ‚È‚¢‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢B(Ž„‚ÍŽè‚Ì‚Ð‚ç‚É­‚µŒŠ‚ðŠJ‚¯‚Ü‚µ‚½B)
- - –{‹LŽ–“à—e‹y‚ÑƒvƒƒOƒ‰ƒ€‚ðŽg—p‚µ‚½‚±‚Æ‚É‚æ‚è”­¶‚·‚éA‚¢‚©‚È‚é‘¹ŠQ‚à•âž‚µ‚Ü‚¹‚ñB
-=======
 ### æ”¹é€ æ‰‹é †
 1.5æœ¬ã®ãƒã‚¸ã‚’å¤–ã—è£è“‹ã‚’é–‹ã‘ã¾ã™ã€‚<br>
 2.LEDåŸºç›¤ã‚’å–ã‚Šä»˜ã‘ã¦ã„ã‚‹ãƒ›ãƒƒãƒˆãƒœãƒ³ãƒ‰ã‚’ã‚ã‚‹ç¨‹åº¦å–ã‚Šã¾ã™ã€‚<br>
@@ -73,7 +36,7 @@
 ã€€ç©´ãŒ100å††ã‚ˆã‚Šå¤§ãã„ã®ã§å¤§èƒ†ã«ã‚¹ã‚¤ãƒƒãƒãŒæŠ¼ã—è¾¼ã‚ã‚‹ä½ã®ä½ç½®ã§å¤§ä¸ˆå¤«ã§ã™ã€‚<br>
 7.ã‚¹ãƒ”ãƒ¼ã‚«ãƒ¼ã‚’ä¸Šè“‹ã®æ­£é¢ã‹ã‚‰è¦‹ã¦å·¦å´ã®å£ã«è¨­ç½®ã—ã¾ã™ã€‚<br>
 ã€€ãƒã‚¸å›ºå®šã®æŸ±ãŒé‚ªé­”ã«ãªã‚‹ã®ã§ãƒ‹ãƒƒãƒ‘ãƒ¼ç­‰ã§åˆ‡æ–­ã—ã¾ã™ã€‚<br>
-ã€€æŽ¥ç€å‰ã«å£ã«ç©´ã‚’é–‹ã‘ã¦ãŠãã¨ã€éŸ³ãŒå¤§ãããªã£ã¦è‰¯ã„ã§ã™ã€‚<br>
+ã€€æŽ¥ç€å‰ã«å£ã«ç©´ã‚’é–‹ã‘ã¦ãŠãã¨ã€éŸ³ãŒå¤§ãããªã£ã¦è‰¯ã„ã§ã™ã€‚
 8.çµç·šå›³ã«å¾“ã£ã¦ãƒ‡ãƒ†ã‚¯ã‚¿ã‚¹ã‚¤ãƒƒãƒã€ã‚¢ãƒ³ãƒ—ã€ã‚¹ãƒ”ãƒ¼ã‚«ãƒ¼ã¨çµç·šã—ã¾ã™ã€‚<br>
 ã€€![IMG_3624](https://user-images.githubusercontent.com/111331376/190153688-288163e2-1fc0-4d44-a961-430d5d3d11b7.jpg)<br>
 9.é›»æ± ã‚’æŠœã„ã¦Tiny2040ã«USBæŽ¥ç¶šã‚’è¡Œã„ã€[vgmpico](https://github.com/Layer812/vgmpico)ã¨vgmãƒ•ã‚¡ã‚¤ãƒ«ã‚’æ›¸ãè¾¼ã¿ã¾ã™ã€‚<br>
@@ -87,9 +50,8 @@
 ## è£œè¶³
  - é›»æ± ã‚’å…¥ã‚ŒãŸã¾ã¾USBã‚’ç¹‹ãŒãªã„ã§ãã ã•ã„ã€‚
  - ã‚ªãƒªã‚¸ãƒŠãƒ«ã¨è¦‹åˆ†ã‘ãŒã¤ã‹ãªã„ã‚ˆã†ã«LEDèµ¤ãå…‰ã‚‰ã›ã¦ã„ã¾ã™ãŒã€ä¸ƒè‰²ã«å…‰ã‚‰ã›ã¦ã‚‚æ°å¥½è‰¯ã„ã‹ã‚‚ã§ã™ã€‚
- - ãƒ‰ãƒªãƒ«ã§ç©´ã‚’é–‹ã‘ã‚‹æ™‚ã€æ‰‹ã‚’ã‚±ã‚¬ã—ãªã„ã‚ˆã†ã«ã—ã¦ãã ã•ã„ã€‚(ç§ã¯æ‰‹ã®ã²ã‚‰ã«å°‘ã—ç©´ã‚’é–‹ã‘ã¾ã—ãŸã€‚)
+ - ãƒ‰ãƒªãƒ«ã§ç©´ã‚’é–‹ã‘ã‚‹æ™‚ã€æ‰‹ã‚’ã‚±ã‚¬ã—ãªã„ã‚ˆã†ã«ã—ã¦ãã ã•ã„ã€‚(æ‰‹ã®ã²ã‚‰ã«å°‘ã—ç©´ã‚’é–‹ã‘ã¾ã—ãŸã€‚)
  - æœ¬è¨˜äº‹å†…å®¹åŠã³ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’ä½¿ç”¨ã—ãŸã“ã¨ã«ã‚ˆã‚Šç™ºç”Ÿã™ã‚‹ã€ã„ã‹ãªã‚‹æå®³ã‚‚è£œå„Ÿã—ã¾ã›ã‚“ã€‚
->>>>>>> 79bad730e3d87e6d866396856bb2c2b769d8c9a8
 
 ## ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
  [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0)ã«åŸºã¥ã„ã¦ã”åˆ©ç”¨ãã ã•ã„ã€‚ã”é€£çµ¡ã¯[layer8](https://twitter.com/layer812)ã¾ã§ãŠé¡˜ã„ã—ã¾ã™ã€‚
